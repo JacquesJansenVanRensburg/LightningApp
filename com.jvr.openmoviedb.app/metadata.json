@@ -1,0 +1,6 @@
+{
+  "name": "OpenMovieDBApp",
+  "identifier": "com.jvr.openmoviedb.app",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
